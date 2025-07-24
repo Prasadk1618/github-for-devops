@@ -3,3 +3,7 @@ git status
 git add 
 git commit 
 git restore
+git remote add origin https://github.com/Prasadk1618/github-for-devops.git
+git remote -v
+git remote set-url origin https://tokenhere@github.com/Prasadk1618/git… 
+git push origin main
